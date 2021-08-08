@@ -13,6 +13,10 @@ setup(
             'typerclitest = typerclitest.__main__:app'
         ]
     })
-    #yum install python-typing
-    #pip3 install packagename
+        
+    #pip install wheel
     #python setup.py sdist bdist_wheel
+        
+   
+    #pip3 install typercli
+    
